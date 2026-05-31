@@ -1,49 +1,118 @@
-
-<div id="header" align="center">
+<div align="center">
   <img src="https://media1.giphy.com/media/igRW3jH2LcCVzMqi5F/giphy.gif?cid=ecf05e47qi6f32dwewh0o8ymnbkj11uzki4df3wuym7b273i&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="170"/>
 </div>
 
-<div id="badges" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/erensama/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/_Harwarl">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </div>
 
-<div align="center">
-  Kon'nichiwa, I’m _harwarl
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>
-<div align="center">
-  A backend developer
-</div>
+<h1 align="center">
+  Kon'nichiwa, I'm Harwarl 👋
+</h1>
 
-### :man_technologist: About Me
+<h3 align="center">
+Backend Engineer • Web3 Developer • Smart Contract Engineer
+</h3>
 
-- 👀 I’m interested in WEB3 and Backend Development
-- 🌱 I’m currently learning Solidity, Hardhat, Web3Js, EthersJs and Other Web3 tools.
-- 💞️ I’m looking to collaborate on any Web3 or backend related projects
-- 📫 How to reach me harwarl87@gmail.com
-  
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/graphql/graphql-plain-wordmark.svg" title="GRAPHql" alt="GRAPHql" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" **alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/solidity/solidity-plain.svg" title="solidity" **alt="solidity" width="40" height="40"/>&nbsp;
+## 🚀 About Me
+
+I'm a Backend Engineer with 4+ years of experience building scalable applications, APIs, blockchain infrastructure, and Web3 products.
+
+My work focuses on designing robust backend systems, developing smart contracts, and building decentralized applications that prioritize security, scalability, and privacy.
+
+### Current Interests
+
+- ⚡ Backend Architecture & Distributed Systems
+- ⛓️ Blockchain Infrastructure
+- 🔐 Privacy-Preserving Applications
+- 🤖 AI + Blockchain Integrations
+- 🚀 Smart Contract Development & Auditing
+
+### What I'm Building
+
+- Privacy-focused blockchain applications
+- Telegram trading and automation bots
+- Smart contract infrastructure
+- Backend systems for high-scale applications
+- Cross-chain and Web3 integrations
+
+### Let's Connect
+
+📧 **Email:** harwarl87@gmail.com
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+### Blockchain
+
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity" />
+</p>
+
+**Web3 Tools**
+
+- Solidity
+- Hardhat
+- Ethers.js
+- Web3.js
+- Wagmi
+- Foundry
+- OpenZeppelin
+
+### Infrastructure & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,linux" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🔐 PrivixPass
+A decentralized password manager that securely stores and manages credentials using blockchain and IPFS.
+
+### 🌌 Pulsar
+A privacy-focused cross-chain transfer platform leveraging privacy-preserving blockchain technologies.
+
+### 🕶️ Nexar
+An anonymous token swap platform designed to improve transaction privacy across blockchain networks.
+
+### 🤖 Incepta
+A Telegram automation platform featuring wallet management, sniping, copy trading, and Web3 integrations.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=_harwarl&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
-### :fire: Status :
+---
 
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=_harwarl&theme=gruvbox-duo&hide_border=true&border_radius=3.5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun&card_width=490)](https://git.io/streak-stats)
+## 💡 Philosophy
 
+> Build secure systems. Design for scale. Automate everything. Privacy by default.
