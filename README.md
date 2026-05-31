@@ -85,23 +85,6 @@ My work focuses on designing robust backend systems, developing smart contracts,
   <img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,linux" />
 </p>
 
----
-
-## 🔥 Featured Projects
-
-### 🔐 PrivixPass
-A decentralized password manager that securely stores and manages credentials using blockchain and IPFS.
-
-### 🌌 Pulsar
-A privacy-focused cross-chain transfer platform leveraging privacy-preserving blockchain technologies.
-
-### 🕶️ Nexar
-An anonymous token swap platform designed to improve transaction privacy across blockchain networks.
-
-### 🤖 Incepta
-A Telegram automation platform featuring wallet management, sniping, copy trading, and Web3 integrations.
-
----
 
 ## 📊 GitHub Stats
 
